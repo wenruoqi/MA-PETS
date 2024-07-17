@@ -8,7 +8,7 @@ Connected Autonomous Vehicles (CAVs) have attracted significant attention in rec
 
 
 <p align="center">
-<img src="./pictures/figure2.pdf" width="50%">
+<img src="./pictures/figure2.jpg" width="50%">
 </p>
 
 #### Paper link: 
